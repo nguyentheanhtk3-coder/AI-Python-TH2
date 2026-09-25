@@ -1,3 +1,4 @@
+#loai bo cac phan tu trung nhau trong mang, in ra theo thu tu tang dan
 n = input()
 mang = [int(i) for i in n.split()]
 mang.sort()
